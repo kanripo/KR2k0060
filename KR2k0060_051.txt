@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 水經注釋
-#+DATE: 2019-03-29 20:53:50.843108
+#+DATE: 2019-03-29 20:53:51.485849
 #+PROPERTY: ID KR2k0060
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 51
 <pb:KR2k0060_WYG_051-1a>¶
 　　欽定四庫全書¶
@@ -1274,7 +1274,7 @@
 ¶
 　　一清按元字衍文后兄下落王字¶
 ¶
-　　于汴城西西南泗水&KR0333;流(卷二十五二十六頁一行)¶
+　　于汴城西西南泗水亂流(卷二十五二十六頁一行)¶
 ¶
 <pb:KR2k0060_WYG_051-42a>¶
 　　一清按西南全祖望校改而與¶

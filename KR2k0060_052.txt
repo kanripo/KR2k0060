@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 水經注釋
-#+DATE: 2019-03-29 20:53:50.861579
+#+DATE: 2019-03-29 20:53:51.513075
 #+PROPERTY: ID KR2k0060
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 52
 <pb:KR2k0060_WYG_052-1a>¶
 　　欽定四庫全書¶
@@ -1494,7 +1494,7 @@
 ¶
 　　淮水又東北淠水注之(卷三十七頁十一行)¶
 ¶
-　　箋曰淠一作&KR1517;一清按非也淠水即沘水淠沘音同¶
+　　箋曰淠一作[泳-永+旱]一清按非也淠水即沘水淠沘音同¶
 九字是注混作經¶
 ¶
 　　軍所謂頓防(卷三十七頁十三行)¶
